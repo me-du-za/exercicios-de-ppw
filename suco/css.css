@@ -1,0 +1,25 @@
+hr{
+    height: 1px;
+    background-color: gray;
+}
+.titleFormat{
+    color: #007e7e;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.descFormat{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75%;
+}
+.greenJuice{
+    color: #00aa00;
+}
+.blueJuice{
+    color: #0000cc;
+}
+.purpleJuice{
+    color: #7700bb;
+}
+.redJuice{
+    color: #aa0000;
+}

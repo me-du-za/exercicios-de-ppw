@@ -1,0 +1,43 @@
+.bg{ 
+    background:
+    url(./imagens/fundo_neo.jpg),
+    url(./imagens/fundo_matrix.jpg);
+    background-repeat: repeat-y, repeat;
+    background-position: right, left;
+    background-size: 10%, 100%;
+}
+.fundo_texto{
+    background-color: black;
+    width: 90%;
+    height: 90%;
+}
+.image_format{
+    width: 6%;
+    margin: 2% 18.7% 2% 0%;
+}
+.row2_position{
+    position: relative;
+    top: 35px;
+}
+.text_format{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin:unset;
+}
+.text2_format{
+    text-align: right;
+    position: relative;
+    right: 10%;
+}
+.text3_format{
+    color: lightgreen;
+    margin: unset;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 17px;
+    text-align: justify;
+    text-indent: 5%;
+}

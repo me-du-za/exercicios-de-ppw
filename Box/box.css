@@ -1,0 +1,80 @@
+.b1{
+    margin-top: 2%;
+    width: 100%;
+    height: 10%;
+    border: 1px solid gray;
+    background-color: red;
+}
+.bb1{
+    margin-top: -2.5%;
+    margin-left: 10%;
+    width: 80%;
+    background-color: rgb(180, 200, 180);
+}
+.b1Text{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.b2{
+    margin-top: 4%;
+    background-color:rgb(50, 50, 255);
+    width: 100%;
+    height: 15%;
+}
+.bb2{
+    background-color: rgb(200, 180, 180);
+    width: 80%;
+    height: 70%;
+    margin-left: 10%;
+    margin-top: 2%;
+    position: relative;
+    top: 15%;
+
+}
+.b2Text{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin-left: 5.5%;
+    position: relative;
+    top: 30%;
+}
+.b3{
+    background-color: rgb(255, 10, 255);
+    width: 100%;
+    height: 15%;
+}
+.bb3{
+    background-color: rgb(200, 200, 100);
+    width: 95%;
+    height: 95%;
+    margin-left: 2.5%;
+    position:relative;
+    top: 2.5%;
+}
+.b3Text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    text-align: justify;
+    position: relative;
+    top: 5%;
+}
+.b4{
+    background-color:rgb(50, 50, 255);
+    width: 100%;
+    height: 11%;
+}
+.bb4{
+    background-color: rgb(170, 170, 255);
+    position:relative;
+    top: 5.5%;
+    width: 99%;
+    margin-left: 0.5%;
+}
+.b4Text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    text-align:justify;
+}
